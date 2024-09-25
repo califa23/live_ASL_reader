@@ -1,0 +1,6 @@
+1) read in image data
+2) preprocess data in prep for a CNN (Concurrent Neural Network)
+3) determine a good starting CNN model
+4) adjust model and hyperparameter tune
+5) test/repeat step 4 (aim for >90% accuracy with test data)
+6) export model
