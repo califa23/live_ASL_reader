@@ -4,8 +4,7 @@
 https://www.kaggle.com/datasets/ayuraj/asl-dataset
 
 ## Crude outline and initial issues
-
-
+-------------------------
 ### model_training
 1. read in image data
 2. preprocess data in prep for a CNN (Concurrent Neural Network)
