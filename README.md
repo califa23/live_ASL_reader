@@ -3,7 +3,7 @@
 ## Dataset
 https://www.kaggle.com/datasets/ayuraj/asl-dataset
 
-## Crude outline and initial issues
+## Crude Outline
 -------------------------
 ### model_training
 1. read in image data
@@ -18,10 +18,6 @@ https://www.kaggle.com/datasets/ayuraj/asl-dataset
 2. take image when hand is "still"?
 3. preprocess image same as model training preprocessing
 4. feed model the image
-
-### issues
-- missing 'U,V,W,X,Y,Z' in data
-
 -------------------------
 
 

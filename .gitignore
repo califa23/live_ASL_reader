@@ -1,4 +1,5 @@
 .idea
 .ipynb_checkpoints
-venv
-myenv
+venv/
+myenv/
+model_training/data/
