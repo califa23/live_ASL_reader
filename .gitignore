@@ -3,3 +3,4 @@
 venv/
 myenv/
 model_training/data/
+model_training/.ipynb_checkpoints
