@@ -1,0 +1,1 @@
+create an application that will access a camera on the PC, and take a picture of a hand when still
