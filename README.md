@@ -1,7 +1,7 @@
 # Live ASL Reader
 
 ## Dataset
-https://www.kaggle.com/datasets/ayuraj/asl-dataset
+https://www.kaggle.com/datasets/grassknoted/asl-alphabet
 
 ## Crude Outline
 -------------------------
