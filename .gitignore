@@ -2,6 +2,8 @@
 .ipynb_checkpoints
 venv/
 myenv/
+wsl/
 model_training/data/
 model_training/model_exports/
 model_training/.ipynb_checkpoints
+model_training/*.dat
