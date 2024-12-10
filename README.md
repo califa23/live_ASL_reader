@@ -1,7 +1,7 @@
 # Live ASL Reader
 
 ## Dataset
-https://www.kaggle.com/datasets/grassknoted/asl-alphabet
+https://www.kaggle.com/datasets/debashishsau/aslamerican-sign-language-aplhabet-dataset
 
 ## Crude Outline
 -------------------------
